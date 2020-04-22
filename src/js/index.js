@@ -14,7 +14,7 @@ class Home extends React.Component {
 	render() {
 		return (
 			<div>
-				<h1>It's Bosco, Bitch!</h1>
+				<h1>Its Britney Bitch</h1>
 			</div>
 		);
 	}
